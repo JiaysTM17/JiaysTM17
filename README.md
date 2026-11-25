@@ -11,31 +11,35 @@
   &nbsp;·&nbsp;
   <a href="https://portfolio-assistant-api.vercel.app" target="_blank">AI Assistant API</a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/JiaysTM17?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
   <a href="mailto:truonggiakiet110806@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="#engineering-focus">Overview</a>
+  <a href="#what-i-build">Focus</a>
   &nbsp;·&nbsp;
-  <a href="#selected-projects">Projects</a>
+  <a href="#selected-work">Work</a>
   &nbsp;·&nbsp;
-  <a href="#github-activity">Activity</a>
+  <a href="#activity--links">Activity</a>
 </p>
 
 </div>
 
 ---
 
-## Engineering focus
+## Building layered web systems, real-time interfaces, and well-tested backends
 
-Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building fullstack web applications with layered backend architecture, relational data modeling, and automated testing.
+Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on clean API boundaries, relational data modeling, and interactive frontend engineering.
+
+### What I build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Core practices</strong>
+      <strong>Engineering practices</strong>
       <ul>
-        <li><b>Backend architecture:</b> Layered <code>Controller → Service → Repository</code> design, REST APIs, JWT/RBAC, and OWASP security hardening</li>
-        <li><b>Real-time &amp; AI:</b> Bi-directional WebSocket (STOMP) event flows and Google Gemini API integrations</li>
-        <li><b>Data &amp; quality:</b> Relational schema design and automated end-to-end verification</li>
+        <li><b>Layered backends:</b> <code>Controller → Service → Repository</code> architecture, REST APIs, JWT/RBAC, and OWASP security hardening</li>
+        <li><b>Real-time &amp; AI:</b> Bi-directional WebSocket (STOMP) event streams and Google Gemini API integrations</li>
+        <li><b>Verification:</b> Relational schema design and automated test suites before shipping</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -55,7 +59,7 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
 
 ---
 
-## Selected projects
+## Selected work
 
 <table>
   <tr>
@@ -63,11 +67,13 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
       <h3><a href="https://github.com/JiaysTM17/UTECoffe">UTECOFFE — OMO E-Commerce</a></h3>
       <p>Tea and coffee chain platform backed by a 34-table PostgreSQL schema, JWT/RBAC auth, Cloudinary media, and a real-time WebSocket Barista KDS.</p>
       <p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>WebSocket</code> <code>Docker</code></p>
+      <p><a href="https://github.com/JiaysTM17/UTECoffe">Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JiaysTM17/nexora">NEXORA — Fashion Marketplace</a></h3>
       <p>Fashion marketplace featuring an OOTD community feed, Re-Loved trade-in workflow, luxury VAS care, and system architecture specifications.</p>
       <p><code>TypeScript</code> <code>System Design</code></p>
+      <p><a href="https://github.com/JiaysTM17/nexora">Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -75,23 +81,27 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
       <h3><a href="https://github.com/JiaysTM17/Fullstack-Ecommerce">Fullstack E-Commerce</a></h3>
       <p>Online retail platform with OWASP security controls, an Escrow Vault payment flow, and 3,151 automated tests passing.</p>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <p><a href="https://github.com/JiaysTM17/Fullstack-Ecommerce">Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JiaysTM17/Personal-portfolio">Personal Portfolio &amp; Swarm UI</a></h3>
-      <p>Dark bento portfolio featuring a 66-agent "HELLO" intro, 14–18 dynamic swarm cursors, touring mode, and cursor vortex · <a href="https://kiet-portfolio.vercel.app">Live</a></p>
+      <p>Dark bento portfolio featuring a 66-agent "HELLO" intro, 14–18 dynamic swarm cursors, touring mode, and cursor vortex.</p>
       <p><code>HTML5</code> <code>Tailwind CSS</code> <code>Vanilla JS</code></p>
+      <p><a href="https://github.com/JiaysTM17/Personal-portfolio">Repository</a> · <a href="https://kiet-portfolio.vercel.app">Live</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JiaysTM17/portfolio-assistant-api">Kiệt AI Assistant API</a></h3>
-      <p>Bilingual (EN/VI) assistant backend powered by the Google Gemini API, synced dynamically with GitHub repository context · <a href="https://portfolio-assistant-api.vercel.app">Live</a></p>
+      <p>Bilingual (EN/VI) assistant backend powered by the Google Gemini API, synced dynamically with GitHub repository context.</p>
       <p><code>Google Gemini API</code> <code>Node.js</code> <code>Express</code></p>
+      <p><a href="https://github.com/JiaysTM17/portfolio-assistant-api">Repository</a> · <a href="https://portfolio-assistant-api.vercel.app">Live</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video">LTW Video System</a></h3>
       <p>Academic video management and streaming platform built for HCMUTE web programming coursework with MVC and JPA persistence.</p>
       <p><code>Spring Boot</code> <code>Spring Data JPA</code> <code>Sitemesh 3</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video">Repository</a></p>
     </td>
   </tr>
 </table>
@@ -111,7 +121,7 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
 
 ---
 
-## GitHub activity
+## Activity & links
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&border_color=30363d" alt="JiaysTM17 GitHub Stats" />
