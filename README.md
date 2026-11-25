@@ -1,7 +1,11 @@
 <div align="center">
 
 <a href="https://kiet-portfolio.vercel.app" target="_blank">
-  <img width="100%" src="./banner.svg" alt="Trương Gia Kiệt — Fullstack and Systems Developer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg" />
+    <img width="100%" src="./banner.svg" alt="Trương Gia Kiệt — Fullstack and Systems Developer" />
+  </picture>
 </a>
 
 <br />
@@ -54,7 +58,11 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on c
 </table>
 
 <div align="center">
-  <img width="100%" src="./architecture-flow.svg" alt="System architecture across client, API and security, real-time and AI, and data layers" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./architecture-flow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./architecture-flow-light.svg" />
+    <img width="100%" src="./architecture-flow.svg" alt="System architecture across client, API and security, real-time and AI, and data layers" />
+  </picture>
 </div>
 
 ---
@@ -90,32 +98,20 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on c
       <p><a href="https://github.com/JiaysTM17/Personal-portfolio">Repository</a> · <a href="https://kiet-portfolio.vercel.app">Live</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JiaysTM17/portfolio-assistant-api">Kiệt AI Assistant API</a></h3>
-      <p>Bilingual (EN/VI) assistant backend powered by the Google Gemini API, synced dynamically with GitHub repository context.</p>
-      <p><code>Google Gemini API</code> <code>Node.js</code> <code>Express</code></p>
-      <p><a href="https://github.com/JiaysTM17/portfolio-assistant-api">Repository</a> · <a href="https://portfolio-assistant-api.vercel.app">Live</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video">LTW Video System</a></h3>
-      <p>Academic video management and streaming platform built for HCMUTE web programming coursework with MVC and JPA persistence.</p>
-      <p><code>Spring Boot</code> <code>Spring Data JPA</code> <code>Sitemesh 3</code> <code>PostgreSQL</code></p>
-      <p><a href="https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video">Repository</a></p>
-    </td>
-  </tr>
 </table>
 
 <details>
-  <summary>More projects and coursework</summary>
+  <summary>More projects, APIs, and coursework</summary>
   <br />
 
-| Repository | Stack | Focus |
-| :--- | :--- | :--- |
-| [JiaysTM17/CampusMind](https://github.com/JiaysTM17/CampusMind) | `Dart / Flutter` | Mobile application project |
-| [JiaysTM17/task-manager](https://github.com/JiaysTM17/task-manager) | `HTML5` `CSS3` `JavaScript` | Personal productivity app with LocalStorage |
-| [JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation](https://github.com/JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation) | `Java` `Spring` `Sitemesh` | Form validation and layout decorator patterns |
-| [JiaysTM17/LTW_BT12.11.2026_JPA](https://github.com/JiaysTM17/LTW_BT12.11.2026_JPA) | `Java` `Spring Data JPA` | Entity mapping and persistence exercises |
+| Repository | Stack | Focus | Links |
+| :--- | :--- | :--- | :--- |
+| **Kiệt AI Assistant API** | `Gemini API` `Node.js` `Express` | Bilingual (EN/VI) assistant synced with GitHub context | [Repo](https://github.com/JiaysTM17/portfolio-assistant-api) · [Live](https://portfolio-assistant-api.vercel.app) |
+| **LTW Video System** | `Spring Boot` `JPA` `PostgreSQL` | Academic video management & streaming platform | [Repo](https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video) |
+| **CampusMind** | `Dart / Flutter` | Mobile application project | [Repo](https://github.com/JiaysTM17/CampusMind) |
+| **Task Manager** | `HTML5` `CSS3` `JavaScript` | Personal productivity app with LocalStorage | [Repo](https://github.com/JiaysTM17/task-manager) |
+| **Sitemesh & Validation** | `Java` `Spring` `Sitemesh` | Form validation and layout decorator patterns | [Repo](https://github.com/JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation) |
+| **JPA Persistence Lab** | `Java` `Spring Data JPA` | Entity mapping and persistence exercises | [Repo](https://github.com/JiaysTM17/LTW_BT12.11.2026_JPA) |
 
 </details>
 
@@ -124,14 +120,26 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on c
 ## Activity & links
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&border_color=30363d" alt="JiaysTM17 GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaysTM17&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&border_color=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&bg_color=ffffff&title_color=1f2328&icon_color=0969da&text_color=656d76&border_color=d0d7de" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&border_color=30363d" alt="JiaysTM17 GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaysTM17&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaysTM17&layout=compact&bg_color=ffffff&title_color=1f2328&text_color=656d76&border_color=d0d7de" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaysTM17&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d" alt="Top Languages" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/JiaysTM17/JiaysTM17/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiaysTM17/JiaysTM17/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiaysTM17/JiaysTM17/output/github-contribution-grid-snake.svg" />
+    <img width="96%" src="https://raw.githubusercontent.com/JiaysTM17/JiaysTM17/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </picture>
 </div>
 
 <br />

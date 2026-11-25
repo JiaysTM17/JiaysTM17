@@ -1,0 +1,72 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dotGridLight" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.9" fill="#d0d7de"/>
+    </pattern>
+    <clipPath id="cardClipLight">
+      <rect x="1" y="1" width="998" height="278" rx="11.5"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="279" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+  <g clip-path="url(#cardClipLight)">
+    <rect x="1" y="1" width="998" height="278" fill="url(#dotGridLight)"/>
+
+    <line x1="1" y1="44" x2="999" y2="44" stroke="#eaeef2" stroke-width="1"/>
+    <text x="36" y="27" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">@JiaysTM17  ·  Ho Chi Minh City (GMT+7)</text>
+
+    <rect x="814" y="11" width="150" height="22" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <rect x="824" y="19" width="6" height="6" rx="1.5" fill="#0969da"/>
+    <text x="838" y="26" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="500">Open to internship</text>
+
+    <line x1="600" y1="44" x2="600" y2="216" stroke="#eaeef2" stroke-width="1"/>
+
+    <circle cx="792" cy="130" r="82" stroke="#eaeef2" stroke-width="1"/>
+    <circle cx="792" cy="130" r="50" stroke="#d0d7de" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <line x1="680" y1="92" x2="792" y2="130" stroke="#d0d7de" stroke-width="1.2"/>
+    <line x1="684" y1="176" x2="792" y2="130" stroke="#d0d7de" stroke-width="1.2"/>
+    <line x1="792" y1="130" x2="906" y2="86" stroke="#0969da" stroke-width="1.5"/>
+    <line x1="792" y1="130" x2="902" y2="174" stroke="#d0d7de" stroke-width="1.2"/>
+
+    <circle cx="680" cy="92" r="4" fill="#ffffff" stroke="#656d76" stroke-width="1.5"/>
+    <circle cx="684" cy="176" r="4" fill="#ffffff" stroke="#656d76" stroke-width="1.5"/>
+    <circle cx="902" cy="174" r="4" fill="#ffffff" stroke="#656d76" stroke-width="1.5"/>
+    <circle cx="792" cy="130" r="5.5" fill="#0969da"/>
+    <circle cx="906" cy="86" r="4.5" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+
+    <rect x="628" y="58" width="94" height="24" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="675" y="74" text-anchor="middle" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="400">React · TS</text>
+
+    <rect x="628" y="188" width="102" height="24" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="679" y="204" text-anchor="middle" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="400">Swarm · 60fps</text>
+
+    <rect x="736" y="144" width="112" height="24" rx="4" fill="#ffffff" stroke="#0969da" stroke-width="1"/>
+    <text x="792" y="160" text-anchor="middle" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="500">Spring · Node</text>
+
+    <rect x="854" y="54" width="114" height="24" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="911" y="70" text-anchor="middle" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="400">STOMP · Gemini</text>
+
+    <rect x="846" y="188" width="122" height="24" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="907" y="204" text-anchor="middle" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="400">Postgres · Docker</text>
+
+    <text x="36" y="114" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="500" letter-spacing="-0.025em">Trương Gia Kiệt</text>
+    <text x="36" y="148" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400">Fullstack &amp; Systems Developer · Computer Science at HCMUTE</text>
+    <text x="36" y="178" fill="#8c959f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Java 21 · Spring Boot · React · TypeScript · PostgreSQL</text>
+
+    <line x1="1" y1="216" x2="999" y2="216" stroke="#eaeef2" stroke-width="1"/>
+    <rect x="1" y="216" width="998" height="63" fill="#f6f8fa"/>
+
+    <text x="36" y="244" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500">3,151<tspan fill="#1f2328" font-size="13" font-weight="400">  automated tests passing</tspan></text>
+    <text x="36" y="262" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="400">OWASP &amp; Escrow Vault (Fullstack E-Commerce)</text>
+
+    <line x1="460" y1="228" x2="460" y2="268" stroke="#d0d7de" stroke-width="1"/>
+    <text x="488" y="244" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500">34<tspan fill="#656d76" font-size="13" font-weight="400">  PostgreSQL tables</tspan></text>
+    <text x="488" y="262" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="400">OMO &amp; Barista KDS (UTECoffe)</text>
+
+    <line x1="744" y1="228" x2="744" y2="268" stroke="#d0d7de" stroke-width="1"/>
+    <text x="772" y="244" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500">10<tspan fill="#656d76" font-size="13" font-weight="400">  public repositories</tspan></text>
+    <text x="772" y="262" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="400">6 flagship systems &amp; coursework</text>
+  </g>
+</svg>
