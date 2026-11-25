@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Header Wave Banner matching Portfolio Dark Blue Palette -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090a0d,55:1e3a8a,100:2563eb&height=190&section=header&text=Tr%C6%B0%C6%A1ng%20Gia%20Ki%E1%BB%87t&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Fullstack%20Developer%20%E2%80%A2%20%40JiaysTM17&descAlignY=62&descSize=16&animation=fadeIn" alt="Header Banner" />
+<!-- Self-hosted Dark Blue Banner (zero external failure) -->
+<a href="https://kiet-portfolio.vercel.app" target="_blank">
+  <img width="100%" src="./banner.svg" alt="Hi, I'm Trương Gia Kiệt - Software & Fullstack Developer" />
+</a>
+
+<br />
 
 <!-- Animated Typing Tagline -->
 <a href="https://kiet-portfolio.vercel.app" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%40+HCMUTE;Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;Building+Scalable+Systems+%26+Interactive+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Tr%C6%B0%C6%A1ng+Gia+Ki%E1%BB%87t+%E2%80%94+Fullstack+Developer;Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+Scalable+Systems+%26+Interactive+Swarm+UIs" alt="Typing SVG" />
 </a>
 
 <br />
@@ -80,11 +84,15 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Streak
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=e2e8f0" alt="JiaysTM17 GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaysTM17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=JiaysTM17&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -100,7 +108,6 @@
 </a>
 
 <br /><br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:1e3a8a,100:090a0d&height=95&section=footer" alt="Footer Wave" />
+<sub><em>"Every project is an opportunity to learn, improve, and create something useful."</em></sub>
 
 </div>
