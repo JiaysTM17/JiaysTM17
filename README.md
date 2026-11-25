@@ -24,6 +24,15 @@
 <img src="https://img.shields.io/badge/Internship-Open_to_Opportunities-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Open for Internship" />
 <img src="https://komarev.com/ghpvc/?username=JiaysTM17&color=1e3a8a&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 
+<br /><br />
+
+<sub>
+  <a href="#-engineering-focus"><b>👨‍💻 Engineering Profile</b></a> &nbsp;•&nbsp;
+  <a href="#%EF%B8%8F-tech-stack"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-featured-projects"><b>🚀 Featured Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-github-analytics--contributions"><b>📊 Analytics &amp; Snake</b></a>
+</sub>
+
 </div>
 
 <br />
@@ -108,9 +117,35 @@ export const developer = {
 
 <br />
 
+<!-- Animated Core Engineering Competencies -->
+<div align="center">
+  <img width="100%" src="./competencies.svg" alt="Core Engineering Competencies" />
+</div>
+
+<br />
+
 <img width="100%" src="./divider.svg" alt="Divider" />
 
 ## 🚀 Featured Projects
+
+<!-- Live GitHub Repo Pin Cards (2x2) -->
+<div align="center">
+  <a href="https://github.com/JiaysTM17/UTECoffe">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JiaysTM17&repo=UTECoffe&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&hide_border=true" alt="UTECoffe" />
+  </a>
+  <a href="https://github.com/JiaysTM17/nexora">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JiaysTM17&repo=nexora&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&hide_border=true" alt="NEXORA" />
+  </a>
+  <br />
+  <a href="https://github.com/JiaysTM17/Fullstack-Ecommerce">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JiaysTM17&repo=Fullstack-Ecommerce&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&hide_border=true" alt="Fullstack E-Commerce" />
+  </a>
+  <a href="https://github.com/JiaysTM17/Personal-portfolio">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JiaysTM17&repo=Personal-portfolio&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&hide_border=true" alt="Personal Portfolio" />
+  </a>
+</div>
+
+<br />
 
 <table>
   <tr>
