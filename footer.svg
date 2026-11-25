@@ -1,0 +1,12 @@
+<svg width="1000" height="90" viewBox="0 0 1000 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0" y1="0" x2="1000" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090a0d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1e3a8a" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 30 Q 250 70 500 30 T 1000 30 L 1000 90 L 0 90 Z" fill="url(#footGrad)"/>
+  <path d="M0 30 Q 250 70 500 30 T 1000 30" stroke="#3b82f6" stroke-width="1.5" stroke-opacity="0.6" fill="none"/>
+  <text x="500" y="72" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">© 2026 Trương Gia Kiệt (@JiaysTM17) • Crafted in Ho Chi Minh City</text>
+</svg>

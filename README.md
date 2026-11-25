@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Self-hosted Dark Blue Banner (zero external failure) -->
+<!-- Animated Self-Hosted Banner -->
 <a href="https://kiet-portfolio.vercel.app" target="_blank">
   <img width="100%" src="./banner.svg" alt="Hi, I'm Trương Gia Kiệt - Software & Fullstack Developer" />
 </a>
@@ -14,7 +14,7 @@
 
 <br />
 
-<!-- Primary Action Buttons -->
+<!-- Primary Action Dock -->
 <a href="https://kiet-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Live_Portfolio-kiet--portfolio.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
 </a>
@@ -22,69 +22,124 @@
   <img src="https://img.shields.io/badge/Contact_Me-Email-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
 </a>
 <img src="https://img.shields.io/badge/Internship-Open_to_Opportunities-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Open for Internship" />
+<img src="https://komarev.com/ghpvc/?username=JiaysTM17&color=1e3a8a&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 
 </div>
 
 <br />
 
-<!-- 2-Column Bento Overview -->
+<img width="100%" src="./divider.svg" alt="Divider" />
+
+<!-- 2-Column Bento Hero: Highlights + Live Developer Config -->
 <table>
   <tr>
-    <td width="54%" valign="top">
+    <td width="50%" valign="top">
 
-### 👨‍💻 Engineering Profile
+### 👨‍💻 Engineering Focus
 
 - 🎓 **Education:** Computer Science @ **HCMUTE**
-- 🏗️ **Architecture:** Layered Design (`Controller - Service - Repository`), REST APIs, **JWT / RBAC** & **OWASP**
+- 🏗️ **Architecture:** Layered Design (`Controller → Service → Repository`), REST APIs, **JWT / RBAC** & **OWASP**
 - ⚡ **Real-Time & AI:** WebSocket (STOMP) & **Google Gemini API**
+- 🧪 **Quality:** **3,151 / 3,151 Automated Tests** (`100% pass`)
+- 🗄️ **Data Modeling:** **34-Table PostgreSQL** schema (`UTECoffe`)
 - 📍 **Base:** Ho Chi Minh City, Vietnam (`GMT+7`)
-- 📫 **Email:** `truonggiakiet110806@gmail.com`
 
 </td>
-    <td width="46%" valign="top">
+    <td width="50%" valign="top">
 
-### 🎯 Key Highlights
+### ⚡ `kiet.config.ts`
 
-- 📦 **10+ Public Repositories** on GitHub
-- 🚀 **06 Flagship Fullstack Projects** deployed & documented
-- 🧪 **3,151 / 3,151 Automated Tests** (`100% pass` in Fullstack E-Commerce)
-- 🗄️ **34-Table Database** architecture in **UTECoffe**
-- 🤖 **66-Agent Interactive Swarm UI** live on Vercel
+```ts
+export const developer = {
+  name: "Trương Gia Kiệt",
+  handle: "@JiaysTM17",
+  role: "Software & Fullstack Developer",
+  university: "HCMUTE — Computer Science",
+  focus: [
+    "Java 21 & Spring Boot",
+    "React, TypeScript & Node.js",
+    "PostgreSQL, MongoDB & Docker",
+  ],
+  portfolio: "https://kiet-portfolio.vercel.app",
+  openToInternship: true,
+};
+```
 
 </td>
   </tr>
 </table>
 
----
+<img width="100%" src="./divider.svg" alt="Divider" />
 
-## 🛠️ Tech Stack Matrix
+## 🛠️ Tech Stack
 
 <div align="center">
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend & APIs** | ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket_STOMP-010101?style=flat-square&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter_/_Dart-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Data, AI & Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Gemini API](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-
+  <a href="https://kiet-portfolio.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,ts,js,tailwind,html,css&perline=10" alt="Core Languages & Frameworks" />
+  </a>
+  <br /><br />
+  <a href="https://kiet-portfolio.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vercel,flutter,dart&perline=8" alt="Databases, Mobile & DevOps" />
+  </a>
 </div>
 
----
+<br />
 
-## 🚀 Flagship Projects
+<img width="100%" src="./divider.svg" alt="Divider" />
 
-| Project | Core Stack | Engineering Highlights | Access |
-| :--- | :--- | :--- | :--- |
-| **☕ UTECOFFE** | `Java 21` `Spring Boot` `PostgreSQL` `WebSocket` `Docker` | OMO Tea & Coffee E-Commerce ecosystem with **34-table schema**, JWT auth & real-time Barista KDS | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JiaysTM17/UTECoffe) |
-| **👗 NEXORA** | `TypeScript` `System Design` `Brand Identity` | Next-gen fashion marketplace featuring **OOTD Community**, **Re-Loved Trade-In** & Luxury VAS Care | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JiaysTM17/nexora) |
-| **🛒 Fullstack E-Commerce** | `React` `Node.js` `Express` `MongoDB` | Online retail system verified by **3,151 / 3,151 Automated Tests**, Escrow Vault & OWASP hardening | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JiaysTM17/Fullstack-Ecommerce) |
-| **🤖 Personal Portfolio** | `HTML5` `Tailwind CSS` `Vanilla JS 60fps` | Dark Brutalist portfolio with **66-agent `"HELLO"` intro**, 14–18 dynamic swarm cursors & Bento Hub | [![Live](https://img.shields.io/badge/Live-Vercel-2563eb?style=flat-square&logo=vercel)](https://kiet-portfolio.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JiaysTM17/Personal-portfolio) |
-| **🧠 Kiệt AI Assistant** | `Google Gemini API` `Node.js` `Express` | Secure bilingual (EN/VI) AI assistant API synced with live GitHub portfolio context | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JiaysTM17/portfolio-assistant-api) |
-| **🎬 LTW Video System** | `Spring Boot` `Spring Data JPA` `Sitemesh 3` `PostgreSQL` | Academic web programming video management & streaming platform (HCMUTE) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video) |
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ UTECOFFE — OMO E-Commerce</h3>
+      <p>Full-featured tea &amp; coffee chain e-commerce system with <b>34-table PostgreSQL schema</b>, JWT/RBAC auth, Cloudinary media, and real-time <b>WebSocket Barista KDS</b>.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>WebSocket</code> <code>Docker</code></p>
+      <a href="https://github.com/JiaysTM17/UTECoffe"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="UTECoffe Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👗 NEXORA — Fashion Marketplace</h3>
+      <p>Next-gen fashion marketplace featuring <b>OOTD Community</b>, <b>Re-Loved Trade-In</b> workflow, Luxury VAS Care, and comprehensive system design docs.</p>
+      <p><code>TypeScript</code> <code>System Design</code> <code>Brand Identity</code></p>
+      <a href="https://github.com/JiaysTM17/nexora"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="NEXORA Repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Fullstack E-Commerce</h3>
+      <p>Online retail platform hardened with <b>OWASP</b> security, Escrow Vault payment flow, and verified by <b>3,151 / 3,151 Automated Tests</b> (100% pass).</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <a href="https://github.com/JiaysTM17/Fullstack-Ecommerce"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="Fullstack Ecommerce Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Personal Portfolio &amp; Swarm UI</h3>
+      <p>Dark Brutalist Bento portfolio featuring a custom 60fps <b>66-Agent "HELLO" Intro</b>, 14–18 dynamic swarm cursors, Touring mode &amp; Cursor Vortex.</p>
+      <p><code>HTML5</code> <code>Tailwind CSS</code> <code>Vanilla JS 60fps</code></p>
+      <a href="https://kiet-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live-Vercel-2563eb?style=for-the-badge&logo=vercel" alt="Live Portfolio" /></a>
+      <a href="https://github.com/JiaysTM17/Personal-portfolio"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Portfolio Repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Kiệt AI Assistant API</h3>
+      <p>Secure bilingual (EN/VI) AI assistant backend powered by <b>Google Gemini API</b>, synced dynamically with GitHub repository context.</p>
+      <p><code>Google Gemini API</code> <code>Node.js</code> <code>Express</code></p>
+      <a href="https://github.com/JiaysTM17/portfolio-assistant-api"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="AI Assistant Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 LTW Video System</h3>
+      <p>Academic web programming video management and streaming platform built for HCMUTE coursework with clean MVC &amp; JPA persistence.</p>
+      <p><code>Spring Boot</code> <code>Spring Data JPA</code> <code>Sitemesh 3</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/JiaysTM17/LTW_BT16.11.2026_JPA_Video"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="LTW Video Repo" /></a>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Analytics & Streak
+<br />
+
+<img width="100%" src="./divider.svg" alt="Divider" />
+
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiaysTM17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=e2e8f0" alt="JiaysTM17 GitHub Stats" />
@@ -99,7 +154,7 @@
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JiaysTM17&bg_color=0d1117&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
----
+<br />
 
 <div align="center">
 
@@ -108,6 +163,7 @@
 </a>
 
 <br /><br />
-<sub><em>"Every project is an opportunity to learn, improve, and create something useful."</em></sub>
+
+<img width="100%" src="./footer.svg" alt="Footer Wave" />
 
 </div>
