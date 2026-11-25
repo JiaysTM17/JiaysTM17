@@ -1,13 +1,15 @@
 <div align="center">
 
 <a href="https://kiet-portfolio.vercel.app" target="_blank">
-  <img width="100%" src="./banner.svg" alt="Trương Gia Kiệt — Software and Fullstack Developer" />
+  <img width="100%" src="./banner.svg" alt="Trương Gia Kiệt — Fullstack and Systems Developer" />
 </a>
 
 <br />
 
 <p>
   <a href="https://kiet-portfolio.vercel.app" target="_blank">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio-assistant-api.vercel.app" target="_blank">AI Assistant API</a>
   &nbsp;·&nbsp;
   <a href="mailto:truonggiakiet110806@gmail.com">Email</a>
   &nbsp;·&nbsp;
@@ -39,7 +41,7 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Stack</strong>
+      <strong>Technical stack</strong>
       <ul>
         <li><b>Backend:</b> Java 21, Spring Boot, Spring Data JPA, Node.js, Express</li>
         <li><b>Frontend &amp; mobile:</b> React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Dart / Flutter</li>
@@ -78,14 +80,14 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JiaysTM17/Personal-portfolio">Personal Portfolio &amp; Swarm UI</a></h3>
-      <p>Dark bento portfolio featuring a 66-agent "HELLO" intro, 14–18 dynamic swarm cursors, touring mode, and cursor vortex (<a href="https://kiet-portfolio.vercel.app">Live</a>).</p>
+      <p>Dark bento portfolio featuring a 66-agent "HELLO" intro, 14–18 dynamic swarm cursors, touring mode, and cursor vortex · <a href="https://kiet-portfolio.vercel.app">Live</a></p>
       <p><code>HTML5</code> <code>Tailwind CSS</code> <code>Vanilla JS</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JiaysTM17/portfolio-assistant-api">Kiệt AI Assistant API</a></h3>
-      <p>Bilingual (EN/VI) assistant backend powered by the Google Gemini API, synced dynamically with GitHub repository context.</p>
+      <p>Bilingual (EN/VI) assistant backend powered by the Google Gemini API, synced dynamically with GitHub repository context · <a href="https://portfolio-assistant-api.vercel.app">Live</a></p>
       <p><code>Google Gemini API</code> <code>Node.js</code> <code>Express</code></p>
     </td>
     <td width="50%" valign="top">
@@ -105,6 +107,7 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
 | [JiaysTM17/CampusMind](https://github.com/JiaysTM17/CampusMind) | `Dart / Flutter` | Mobile application project |
 | [JiaysTM17/task-manager](https://github.com/JiaysTM17/task-manager) | `HTML5` `CSS3` `JavaScript` | Personal productivity app with LocalStorage |
 | [JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation](https://github.com/JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation) | `Java` `Spring` `Sitemesh` | Form validation and layout decorator patterns |
+| [JiaysTM17/LTW_BT12.11.2026_JPA](https://github.com/JiaysTM17/LTW_BT12.11.2026_JPA) | `Java` `Spring Data JPA` | Entity mapping and persistence exercises |
 
 </details>
 
@@ -122,3 +125,9 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`) building full
 <div align="center">
   <img width="96%" src="https://raw.githubusercontent.com/JiaysTM17/JiaysTM17/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
+
+<br />
+
+<p align="center">
+  <sub>Ho Chi Minh City, Vietnam · <a href="mailto:truonggiakiet110806@gmail.com">truonggiakiet110806@gmail.com</a> · <a href="https://kiet-portfolio.vercel.app">kiet-portfolio.vercel.app</a></sub>
+</p>

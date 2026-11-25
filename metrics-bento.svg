@@ -1,21 +1,16 @@
-<svg width="1000" height="108" viewBox="0 0 1000 108" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="20" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Public repositories</text>
-  <text x="20" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">10</text>
-  <text x="20" y="90" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Verified on GitHub</text>
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="463" height="119" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="1"/>
+  <text x="24" y="34" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Automated verification · Fullstack E-Commerce</text>
+  <text x="24" y="76" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="500">3,151<tspan fill="#e6edf3" font-size="16" font-weight="400">  tests passing</tspan></text>
+  <text x="24" y="100" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">OWASP security hardening and Escrow Vault checkout flow</text>
 
-  <rect x="254.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="274" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Featured projects</text>
-  <text x="274" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">6</text>
-  <text x="274" y="90" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Fullstack &amp; system design</text>
+  <rect x="479.5" y="0.5" width="256" height="119" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="500" y="34" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Relational modeling</text>
+  <text x="500" y="76" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">34<tspan fill="#8b949e" font-size="15" font-weight="400">  tables</tspan></text>
+  <text x="500" y="100" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">PostgreSQL schema in UTECoffe</text>
 
-  <rect x="508.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1"/>
-  <text x="528" y="30" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="500">Automated tests</text>
-  <text x="528" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">3,151</text>
-  <text x="528" y="90" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Passing in Fullstack E-Com</text>
-
-  <rect x="762.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="782" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">PostgreSQL schema</text>
-  <text x="782" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">34</text>
-  <text x="782" y="90" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Tables in UTECoffe</text>
+  <rect x="751.5" y="0.5" width="248" height="119" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="772" y="34" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">GitHub profile</text>
+  <text x="772" y="76" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">10<tspan fill="#8b949e" font-size="15" font-weight="400">  public repos</tspan></text>
+  <text x="772" y="100" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">6 flagship systems &amp; coursework</text>
 </svg>
