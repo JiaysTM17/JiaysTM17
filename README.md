@@ -28,9 +28,25 @@
 
 <br />
 
+<!-- Bento Engineering Metrics Strip -->
+<div align="center">
+  <img width="100%" src="./metrics-bento.svg" alt="Key Engineering Metrics" />
+</div>
+
+<br />
+
+<!-- Animated Developer Terminal -->
+<div align="center">
+  <a href="https://kiet-portfolio.vercel.app" target="_blank">
+    <img width="100%" src="./terminal.svg" alt="Developer Status Terminal" />
+  </a>
+</div>
+
+<br />
+
 <img width="100%" src="./divider.svg" alt="Divider" />
 
-<!-- 2-Column Bento Hero: Highlights + Live Developer Config -->
+<!-- 2-Column Bento Hero: Focus + Live Developer Config -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -134,6 +150,18 @@ export const developer = {
     </td>
   </tr>
 </table>
+
+<details>
+  <summary><b>📂 More Projects &amp; Coursework (Click to expand)</b></summary>
+  <br />
+
+| Repository | Stack | Focus | Link |
+| :--- | :--- | :--- | :--- |
+| **CampusMind** | `Dart / Flutter` | Mobile application project | [JiaysTM17/CampusMind](https://github.com/JiaysTM17/CampusMind) |
+| **Task Manager** | `HTML5` `CSS3` `JavaScript` | Personal productivity app with LocalStorage | [JiaysTM17/task-manager](https://github.com/JiaysTM17/task-manager) |
+| **Sitemesh & Validation** | `Java` `Spring` `Sitemesh` | Form validation & layout decorator patterns | [JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation](https://github.com/JiaysTM17/LTW_BT19.11.2026_Sitemesh_Validation) |
+
+</details>
 
 <br />
 
