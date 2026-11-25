@@ -101,6 +101,13 @@ export const developer = {
 
 <br />
 
+<!-- Animated System Architecture Blueprint -->
+<div align="center">
+  <img width="100%" src="./architecture-flow.svg" alt="System Architecture Blueprint" />
+</div>
+
+<br />
+
 <img width="100%" src="./divider.svg" alt="Divider" />
 
 ## 🚀 Featured Projects
@@ -180,6 +187,13 @@ export const developer = {
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JiaysTM17&bg_color=0d1117&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</div>
+
+<br />
+
+<!-- Animated Contribution Snake (auto-updated daily via GitHub Actions) -->
+<div align="center">
+  <img width="96%" src="https://raw.githubusercontent.com/JiaysTM17/JiaysTM17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 <br />
