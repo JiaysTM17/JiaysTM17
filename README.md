@@ -21,6 +21,8 @@
   &nbsp;·&nbsp;
   <a href="#what-i-build">Focus</a>
   &nbsp;·&nbsp;
+  <a href="#engineering-ledger">Ledger</a>
+  &nbsp;·&nbsp;
   <a href="#selected-work">Work</a>
   &nbsp;·&nbsp;
   <a href="#activity--links">Activity</a>
@@ -32,18 +34,41 @@
 
 ## Building layered web systems, real-time interfaces, and well-tested backends
 
-Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on clean API boundaries, relational data modeling, and interactive frontend engineering.
+Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`). I design relational schemas first, keep API boundaries explicit, and verify critical user flows with automated tests.
 
-### What I build
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Now</strong>
+      <ul>
+        <li>Refining <b>UTECOFFE</b> (Spring Boot 3 + WebSocket Barista KDS) and <b>NEXORA</b> (TypeScript marketplace)</li>
+        <li>Maintaining <a href="https://kiet-portfolio.vercel.app">kiet-portfolio.vercel.app</a> and its Gemini-powered assistant API</li>
+        <li>Open to <b>Software / Fullstack Developer Internships</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>How I work</strong>
+      <ul>
+        <li><b>Schema-first modeling:</b> Normalized relational tables and clear entity boundaries before writing endpoints</li>
+        <li><b>Explicit layering:</b> Strict <code>Controller → Service → Repository</code> separation</li>
+        <li><b>Verification:</b> Automated test coverage for auth, payments, and state transitions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I build
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <strong>Engineering practices</strong>
       <ul>
-        <li><b>Layered backends:</b> <code>Controller → Service → Repository</code> architecture, REST APIs, JWT/RBAC, and OWASP security hardening</li>
+        <li><b>Backend &amp; security:</b> REST APIs, stateless JWT / RBAC, and OWASP security hardening</li>
         <li><b>Real-time &amp; AI:</b> Bi-directional WebSocket (STOMP) event streams and Google Gemini API integrations</li>
-        <li><b>Verification:</b> Relational schema design and automated test suites before shipping</li>
+        <li><b>Interactive UI:</b> Responsive React / TypeScript interfaces and 60fps canvas/DOM motion systems</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -64,6 +89,15 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on c
     <img width="100%" src="./architecture-flow.svg" alt="System architecture across client, API and security, real-time and AI, and data layers" />
   </picture>
 </div>
+
+### Engineering ledger
+
+| Domain | Implementation | Applied in |
+| :--- | :--- | :--- |
+| **Auth & security** | Stateless JWT, role-based access control, OWASP hardening, Escrow Vault payment flow | `UTECOFFE` · `Fullstack E-Commerce` |
+| **Real-time & motion** | WebSocket STOMP Barista KDS, 60fps 66-agent intro, 14–18 swarm cursors & vortex | `UTECOFFE` · `Personal Portfolio` |
+| **AI & context sync** | Bilingual (EN/VI) Gemini API backend synced dynamically with GitHub repository data | `Kiệt AI Assistant API` |
+| **Data modeling** | 34-table normalized PostgreSQL schema and MongoDB document collections | `UTECOFFE` · `Fullstack E-Commerce` |
 
 ---
 
@@ -145,5 +179,5 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`), focused on c
 <br />
 
 <p align="center">
-  <sub>Ho Chi Minh City, Vietnam · <a href="mailto:truonggiakiet110806@gmail.com">truonggiakiet110806@gmail.com</a> · <a href="https://kiet-portfolio.vercel.app">kiet-portfolio.vercel.app</a></sub>
+  <sub>Ho Chi Minh City, Vietnam · <a href="mailto:truonggiakiet110806@gmail.com">truonggiakiet110806@gmail.com</a> · <a href="https://kiet-portfolio.vercel.app">kiet-portfolio.vercel.app</a> · <a href="https://github.com/JiaysTM17">github.com/JiaysTM17</a></sub>
 </p>
