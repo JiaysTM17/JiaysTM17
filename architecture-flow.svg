@@ -1,61 +1,36 @@
-<svg width="1000" height="190" viewBox="0 0 1000 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nodeBg" x1="0" y1="0" x2="0" y2="110" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#090a0d"/>
-    </linearGradient>
-    <linearGradient id="pipeGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#10b981"/>
-    </linearGradient>
-  </defs>
+<svg width="1000" height="164" viewBox="0 0 1000 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="999" height="163" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
-  <rect x="2" y="2" width="996" height="186" rx="14" fill="#090a0d" stroke="#1e293b" stroke-width="1.5"/>
-  <text x="28" y="30" fill="#60a5fa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">SYSTEM ARCHITECTURE BLUEPRINT</text>
-  <text x="972" y="30" text-anchor="end" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">LAYERED • REAL-TIME • TESTED</text>
+  <!-- Section header -->
+  <text x="24" y="32" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">System architecture</text>
+  <text x="976" y="32" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Layered · Real-time · Tested</text>
 
-  <!-- Connecting Pipes -->
-  <line x1="230" y1="104" x2="275" y2="104" stroke="#1e293b" stroke-width="3"/>
-  <line x1="485" y1="104" x2="530" y2="104" stroke="#1e293b" stroke-width="3"/>
-  <line x1="740" y1="104" x2="785" y2="104" stroke="#1e293b" stroke-width="3"/>
+  <!-- Connecting lines -->
+  <line x1="242" y1="96" x2="266" y2="96" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="488" y1="96" x2="512" y2="96" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="734" y1="96" x2="758" y2="96" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- Animated Data Pulses -->
-  <circle r="4" cy="104" fill="#60a5fa">
-    <animate attributeName="cx" values="230;275" dur="1.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="4" cy="104" fill="#c084fc">
-    <animate attributeName="cx" values="485;530" dur="1.4s" begin="0.35s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="4" cy="104" fill="#34d399">
-    <animate attributeName="cx" values="740;785" dur="1.4s" begin="0.7s" repeatCount="indefinite"/>
-  </circle>
+  <!-- Node 1 -->
+  <rect x="24" y="48" width="218" height="96" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="40" y="72" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="400">01 · Client layer</text>
+  <text x="40" y="98" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">React &amp; TypeScript</text>
+  <text x="40" y="122" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">Tailwind CSS · Flutter</text>
 
-  <!-- Node 1: Frontend & Swarm UI -->
-  <rect x="24" y="52" width="206" height="106" rx="10" fill="url(#nodeBg)" stroke="#2563eb" stroke-opacity="0.55" stroke-width="1.5"/>
-  <text x="42" y="78" fill="#60a5fa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700">01 / CLIENT LAYER</text>
-  <text x="42" y="106" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="700">React • TypeScript</text>
-  <text x="42" y="128" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Tailwind CSS &amp; 60fps UI</text>
-  <text x="42" y="146" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">SSR / SPA / Flutter</text>
+  <!-- Node 2 (single accent focus) -->
+  <rect x="266" y="48" width="222" height="96" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1"/>
+  <text x="282" y="72" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="500">02 · API &amp; security</text>
+  <text x="282" y="98" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">Spring Boot &amp; Node.js</text>
+  <text x="282" y="122" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">JWT / RBAC · OWASP</text>
 
-  <!-- Node 2: Backend & Security -->
-  <rect x="275" y="52" width="210" height="106" rx="10" fill="url(#nodeBg)" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="1.5"/>
-  <text x="293" y="78" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700">02 / API &amp; SECURITY</text>
-  <text x="293" y="106" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="700">Spring Boot • Node</text>
-  <text x="293" y="128" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">JWT / RBAC &amp; OWASP</text>
-  <text x="293" y="146" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">3,151 Automated Tests</text>
+  <!-- Node 3 -->
+  <rect x="512" y="48" width="222" height="96" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="528" y="72" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="400">03 · Real-time &amp; AI</text>
+  <text x="528" y="98" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">WebSocket &amp; Gemini</text>
+  <text x="528" y="122" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">STOMP KDS · AI Assistant</text>
 
-  <!-- Node 3: Real-Time & AI -->
-  <rect x="530" y="52" width="210" height="106" rx="10" fill="url(#nodeBg)" stroke="#06b6d4" stroke-opacity="0.55" stroke-width="1.5"/>
-  <text x="548" y="78" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700">03 / REAL-TIME &amp; AI</text>
-  <text x="548" y="106" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="700">WebSocket • Gemini</text>
-  <text x="548" y="128" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">STOMP KDS &amp; AI Agent</text>
-  <text x="548" y="146" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">Bi-directional Events</text>
-
-  <!-- Node 4: Data & Deploy -->
-  <rect x="785" y="52" width="191" height="106" rx="10" fill="url(#nodeBg)" stroke="#10b981" stroke-opacity="0.55" stroke-width="1.5"/>
-  <text x="803" y="78" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700">04 / DATA &amp; INFRA</text>
-  <text x="803" y="106" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="700">Postgres • Mongo</text>
-  <text x="803" y="128" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">34-Table Schema • Docker</text>
-  <text x="803" y="146" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">CI/CD • Vercel</text>
+  <!-- Node 4 -->
+  <rect x="758" y="48" width="218" height="96" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="774" y="72" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="400">04 · Data &amp; infra</text>
+  <text x="774" y="98" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">PostgreSQL &amp; MongoDB</text>
+  <text x="774" y="122" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">Docker · Vercel CI/CD</text>
 </svg>
