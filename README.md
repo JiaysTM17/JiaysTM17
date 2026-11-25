@@ -47,10 +47,10 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`). I design rel
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>How I work</strong>
+      <strong>Engineering approach</strong>
       <ul>
         <li><b>Schema-first modeling:</b> Normalized relational tables and clear entity boundaries before writing endpoints</li>
-        <li><b>Explicit layering:</b> Strict <code>Controller → Service → Repository</code> separation</li>
+        <li><b>Explicit layering:</b> Strict <code>Controller → Service → Repository</code> separation with JWT/RBAC &amp; OWASP hardening</li>
         <li><b>Verification:</b> Automated test coverage for auth, payments, and state transitions</li>
       </ul>
     </td>
@@ -61,26 +61,13 @@ Computer Science student at **HCMUTE** (Ho Chi Minh City, `GMT+7`). I design rel
 
 ## What I build
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Engineering practices</strong>
-      <ul>
-        <li><b>Backend &amp; security:</b> REST APIs, stateless JWT / RBAC, and OWASP security hardening</li>
-        <li><b>Real-time &amp; AI:</b> Bi-directional WebSocket (STOMP) event streams and Google Gemini API integrations</li>
-        <li><b>Interactive UI:</b> Responsive React / TypeScript interfaces and 60fps canvas/DOM motion systems</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Technical stack</strong>
-      <ul>
-        <li><b>Backend:</b> Java 21, Spring Boot, Spring Data JPA, Node.js, Express</li>
-        <li><b>Frontend &amp; mobile:</b> React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Dart / Flutter</li>
-        <li><b>Data &amp; infra:</b> PostgreSQL, MongoDB, Docker, Git, Vercel</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | `Java 21` `Spring Boot 3` `Spring Data JPA` `Node.js` `Express` `WebSocket (STOMP)` |
+| **Frontend & Mobile** | `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` `Dart / Flutter` |
+| **Data & Infra** | `PostgreSQL` `MongoDB` `Docker` `Git` `Vercel` `Google Gemini API` |
+
+<br />
 
 <div align="center">
   <picture>
