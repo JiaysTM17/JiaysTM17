@@ -1,40 +1,21 @@
-<svg width="1000" height="118" viewBox="0 0 1000 118" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="118" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#090a0d"/>
-    </linearGradient>
-    <linearGradient id="accentBlue" x1="0" y1="0" x2="235" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#60a5fa"/>
-    </linearGradient>
-  </defs>
+<svg width="1000" height="108" viewBox="0 0 1000 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="20" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Public repositories</text>
+  <text x="20" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">10</text>
+  <text x="20" y="90" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Verified on GitHub</text>
 
-  <!-- Card 1: Public Repos -->
-  <rect x="4" y="6" width="234" height="106" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5"/>
-  <rect x="4" y="6" width="234" height="3" rx="1.5" fill="url(#accentBlue)"/>
-  <text x="24" y="34" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="0.8">PUBLIC REPOS</text>
-  <text x="24" y="74" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="800">12</text>
-  <text x="24" y="96" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Active on GitHub</text>
+  <rect x="254.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="274" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">Featured projects</text>
+  <text x="274" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">6</text>
+  <text x="274" y="90" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Fullstack &amp; system design</text>
 
-  <!-- Card 2: Flagship Projects -->
-  <rect x="256" y="6" width="234" height="106" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5"/>
-  <rect x="256" y="6" width="234" height="3" rx="1.5" fill="#8b5cf6"/>
-  <text x="276" y="34" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="0.8">FLAGSHIP APPS</text>
-  <text x="276" y="74" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="800">06</text>
-  <text x="276" y="96" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Fullstack &amp; System Design</text>
+  <rect x="508.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1"/>
+  <text x="528" y="30" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="500">Automated tests</text>
+  <text x="528" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">3,151</text>
+  <text x="528" y="90" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Passing in Fullstack E-Com</text>
 
-  <!-- Card 3: Automated Tests -->
-  <rect x="508" y="6" width="234" height="106" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5"/>
-  <rect x="508" y="6" width="234" height="3" rx="1.5" fill="#10b981"/>
-  <text x="528" y="34" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="0.8">AUTOMATED TESTS</text>
-  <text x="528" y="74" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="800">3,151</text>
-  <text x="528" y="96" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">100% Pass • Fullstack E-Com</text>
-
-  <!-- Card 4: DB Schema -->
-  <rect x="760" y="6" width="236" height="106" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5"/>
-  <rect x="760" y="6" width="236" height="3" rx="1.5" fill="#f59e0b"/>
-  <text x="780" y="34" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="0.8">POSTGRES SCHEMA</text>
-  <text x="780" y="74" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="800">34</text>
-  <text x="780" y="96" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Tables • UTECoffe OMO</text>
+  <rect x="762.5" y="0.5" width="237" height="107" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="782" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="400">PostgreSQL schema</text>
+  <text x="782" y="68" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500">34</text>
+  <text x="782" y="90" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Tables in UTECoffe</text>
 </svg>
