@@ -20,8 +20,6 @@
   <a href="#github-activity">Activity</a>
 </p>
 
-<img width="100%" src="./metrics-bento.svg" alt="Key engineering metrics" />
-
 </div>
 
 ---
